@@ -1,0 +1,20 @@
+p{
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+h1, h2, h3, h4, h5{
+    margin: 0;
+}
+ul{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.textleft{ 
+    margin-left: 10%;
+    float:left;
+}
+.textright{
+    margin-right: 10%;
+    float:right;
+}
